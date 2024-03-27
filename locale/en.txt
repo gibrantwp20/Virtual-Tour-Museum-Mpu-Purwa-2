@@ -1,0 +1,123 @@
+#: locale=en
+
+## E-Learning
+
+### Question Screen
+quizQuestion_3A834CC9_26BC_8D7A_4193_12D169FE5A52.ok = OK
+
+### Report Screen
+quizScore_3A86BCCA_26BC_8D7E_41B0_657BCC6B386D.title = - SCORE -
+quizScore_3A86BCCA_26BC_8D7E_41B0_657BCC6B386D.completion = Completed
+quizScore_3A86BCCA_26BC_8D7E_41B0_657BCC6B386D.questionsCorrect = Correct
+quizScore_3A86BCCA_26BC_8D7E_41B0_657BCC6B386D.downloadCSV = Download .csv
+quizScore_3A86BCCA_26BC_8D7E_41B0_657BCC6B386D.questionsIncorrect = Incorrect
+quizScore_3A86BCCA_26BC_8D7E_41B0_657BCC6B386D.items = Items Found
+quizScore_3A86BCCA_26BC_8D7E_41B0_657BCC6B386D.questions = Questions
+quizScore_3A86BCCA_26BC_8D7E_41B0_657BCC6B386D.repeat = Repeat
+quizScore_3A86BCCA_26BC_8D7E_41B0_657BCC6B386D.submitToLMS = Submit
+quizScore_3A86BCCA_26BC_8D7E_41B0_657BCC6B386D.elapsedTime = Time
+
+### Score Name
+score1.label = Score 1
+
+### Timeout Screen
+quizTimeout_3A834CC8_26BC_8D7A_41A4_CD252D0BC3E4.title = - TIMEOUT -
+quizTimeout_3A834CC8_26BC_8D7A_41A4_CD252D0BC3E4.repeat = Repeat
+quizTimeout_3A834CC8_26BC_8D7A_41A4_CD252D0BC3E4.score = View Score
+
+## Media
+
+### Title
+photo_B825A497_AB28_0FC3_41DF_A635088B06C7.label = Bodhisatwa (Awalokiteswara)
+photo_917C7615_8225_F08F_41A9_B7D69100565B.label = Brahma Catur Muka
+album_9245633B_8224_10FB_41DD_7A47A64CBF3A_0.label = Brahma Catur Muka
+photo_97C23A9E_8224_11BD_41D6_8A64BEBA0807.label = Durgamahisa Suramardini
+photo_97C23A9E_8224_11BD_41D6_8A64BEBA0807.label = Durgamahisa Suramardini
+photo_BA4DA2EC_AB38_0B45_41D1_FEB08DF84E39.label = Dwi Kesuburan
+panorama_2D7DAC5C_2172_77C5_41B6_65C012C733C3.label = GS__0509_1701367808711
+panorama_2BD347CC_2172_30C6_4196_E0FEF77F5B20.label = GS__0510_1701367808711
+panorama_2BE920C6_2172_10C5_41AC_9270AA3E0458.label = GS__0511_1701367808711
+panorama_2BE870EA_2172_F0CD_4175_24B7C8FC29EA.label = GS__0513_1701367808711
+panorama_2BE8B8FD_2172_F0C6_41B7_F3C964C1544A.label = GS__0514_1701367808711
+panorama_2BE810D6_2172_10C2_41B9_2E2C1AEA4F14.label = GS__0515_1701367808711
+panorama_2BE86998_2172_114E_4193_46EAB57E4320.label = GS__0516_1701367808711
+panorama_2BE80188_2172_314E_41A8_2F70F6242775.label = GS__0517_1701367808711
+panorama_2BE852B8_2172_134D_41B8_1FC4224C332E.label = GS__0519_1701367808711
+panorama_2BEFFAD4_2172_10C5_4199_8E3DE0316245.label = GS__0521_1701367808711
+panorama_2BEF3BF5_2172_70C7_41BB_7B0641DBCBB9.label = GS__0523_1701367808711
+panorama_2BEF8438_2172_174E_41B8_DD5CA18D8A81.label = GS__0525_1701367808711
+panorama_2BEF5C08_2172_174D_41BD_CB83DB64F908.label = GS__0526_1701367808711
+panorama_2BEFB46E_2172_37C2_41A9_7BA05E9F79B3.label = GS__0527_1701367808711
+panorama_2BEF0C3F_2172_3743_41B6_F26147702929.label = GS__0528_1701367808711
+panorama_2BEF7406_2172_1745_41B1_C2AC3E7DB455.label = GS__0529_1701367808711
+panorama_2BEEECF2_2172_10DD_41BC_97065AC925FF.label = GS__0530_1701367808711
+panorama_2BEF4618_2171_F34E_41A5_C40FB46D0E11.label = GS__0531_1701367808711
+panorama_2BEEDF2C_2171_F145_41B2_E82A4B092D03.label = GS__0532_1701367808711
+panorama_2BE90848_2176_1FCE_41AC_E9C46D7E4B78.label = GS__0533_1701367808711
+panorama_2BE95155_2176_31C6_4193_6AC71FAC32A5.label = GS__0534_1701367808711
+panorama_2BE91B19_2176_314E_4180_FBB7033E0FBC.label = GS__0535_1701367808711
+panorama_2BE9A5A5_2176_1147_41C0_953288B2C22E.label = GS__0536_1701367808711
+panorama_2BD5248A_2176_1742_418C_60CDF0D9F12A.label = GS__0537_1701367808711
+panorama_2BEB7365_2176_11C6_41B2_A348433A3329.label = GS__0540_1701367808711
+photo_9A90935C_8224_30BD_41D9_3540AA4F7779.label = Ganesya
+photo_9A90935C_8224_30BD_41D9_3540AA4F7779.label = Ganesya
+photo_943B6D22_8224_3085_41D1_F213C9D5A18F.label = Ganesya Bunulrejo
+photo_943B6D22_8224_3085_41D1_F213C9D5A18F.label = Ganesya Bunulrejo
+photo_6DD48847_7FB3_93AC_41D8_120DB6824741.label = Mpu Purwa
+album_9245633B_8224_10FB_41DD_7A47A64CBF3A.label = Museum
+photo_B981F352_AB28_0942_41DD_09C0EEC0B18A.label = Prasasti Dinoyo 2
+photo_B8FC3AC3_AB19_FB43_41D5_91035002B857.label = Prasasti Muncang
+photo_BFA7B489_AB28_0FCE_41E5_4FD61F1FC144.label = Singa
+photo_949A7E88_822C_1185_41DA_33A82DC63EBE.label = Siwa Mahaguru
+photo_949A7E88_822C_1185_41DA_33A82DC63EBE.label = Siwa Mahaguru
+photo_B1FC3E5B_AF24_2D14_41CD_78CB92EB7301.label = jayakatwangjpg-20211113114633
+photo_B7EF7352_ABF8_0942_41E3_16A24DE0EDDD.label = keris-mpu-gandringjpg-20211112063143
+photo_B05276E2_AFE4_3D34_41E3_E8E0BAAF983D.label = museum mpu purwa
+photo_B0F52F9D_AFFD_EB0F_41DA_5928266CAB5E.label = topeng
+
+## Popup
+
+### Body
+htmlText_942BCA8A_821C_1185_41B7_7CBE7554178D.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Arca ganesya ini dalam keadaan terpongan  bagian bawahnya (lapik, kaki, dan tangan kiri). Lapik segi empat berhias bunga teratai dengan kelopak mengarah keatas.sikap duduk seperti bayi. Belalai tidak ada, mulut lebar, hidung berlobang besar. Melihat figur arca yang besar, diduga Arca ganesya ini tidak ditempatkan di bangunan percandian, tetapi diletakan disuatu tempat  yang berfungsi sebagai penangkal kekuata magis. Ganesya jenis ini sering disebut Vignavigneswara.</SPAN></DIV></BODY></HTML></div>
+htmlText_95359ACD_81F3_B973_41C5_31F60B10C9DA.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Arca ini pernah dilaporkan oleh J. Oey Blom pernah berada di halaman kantor Asisten Residaen di malang. Dipindahkan dari percandian Singosari bersama-sama dengan arca Budha aksobhya, dan ditempatkan di halaman Asissten Residen. Digambarkan dalam duduk sikap sila tumpang (Wirasana). Berkepala 4 masing-masing menghadap ke mata angin, dimana kepala yang paling belakang  dapat diketahui melalui lobang yang terdapat pada sandaran yang sekaligus menjadi prabhannya. Prabha dihias dengan hiasan pinggir awan dan lidah api.</SPAN></DIV></BODY></HTML></div>
+htmlText_B8D3811C_AB28_06C5_41CA_64E462E6D41A.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Batu prasasti ini ditemukan di sekitar pertigaan Jl. MT. Haryono dengan Jl Gajayana kelurahan Dinoyo Malang pada tahun 1985. Prasati menggunakan bahasa jawa kuno dan berhuruf jawa kuno pula.</SPAN></DIV></BODY></HTML></div>
+htmlText_95B623C0_822C_1785_41C3_6298560F9A1A.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Digambarkan dalam posisi berdiri  dan bertngan 8 masing- masing tangan kanan membawa senjata cakra,pedang,panah dan menarik ekor lembu. Sedang keempat tangan kiri masing- masing membawa kerang bersayap, kapak, busur, serta gada. Seperti halnya dengan arca Durgamahisasuramardini no. </SPAN></DIV></BODY></HTML></div>
+htmlText_BF3281A0_AB28_09FE_41DF_2847FC26EA73.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Digambarkan dalam posisi berdiri  dengan sikaptiga alur lekukan badan (tribhangga). Arca ini kaya akan hiasan di kanan dan kirinya. Pada lingkaran kesucian di belakang kepalanya dihias denagn pola ‘lidah api’ pakaian arcanya sendiri dapat disebut berpakaian mewah (samboghakaya). Bagian paha kebawah patah. Tangan kanan patah pada bagian lengan, sementara tangan kiri membawa tangkai bunga teratai (diduga itu bunga teratai merah/padma, karena pada bonggol tangkai teratai yang berada dibawahnya terdapat daun dari jenis teratai merah. Sandarannya yang sekaligus sebagai ‘prabha’ dihias dengan hiasan angsa, makarna, dan singa yang laki-lakinya diganti dengan kaki kuda/lembu (dalam kesenian singasari sering kita jumpai pertukaran kaki semacam ini, seperti kaki kuda diganti denagn kaki singa).</SPAN></DIV></BODY></HTML></div>
+htmlText_970306C5_8224_318F_4199_415673FA2BF9.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Digambarkan dengan posisi duduk seperti bayi di atas bantalan (asana) bunga teratai merah (padma) ganda. Pada bagian leher hingga kepala hilang. Dua tangan belakang serta telapak kedua tangan depan hilang. Keistimewaan dari arca ganesya ini bahwa dibelakang sandarannya dipatahkan sebuah prasati.Arca ganesya ini ditemukan dikampung beji kelurahan bunulrejo. Di sana menurut keterangan pemilik tanah, terdapas situs patirthan dengan ukuran 12 m2 Namun situs tersebut sudah hilang karena diuruk dengan tanah pada sekitar tahun 1960an oleh pemilik tanah. Nama bulul dapat dikenali kembai  sebagai nama sebuah wilayah  desa yaitu desa Bunul, yang dalam perkembangannya menjadi kelurahan bunulrejo.</SPAN></DIV></BODY></HTML></div>
+htmlText_B6343857_ABF8_0742_41E1_47313D09D337.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Ken Dedes dikenal dengan Nareswari atau wanita utama yang diramalkan akan menurunkan raja-raja Jawa. Ken Arok berupaya untuk merebutnya dari Tunggul Ametung yang telah memperistrinya. Untuk memutuskan tujuannya, Ken Arok memesan sebilah keris dari Mpu Gandring. Namun disaat Ken Arok mengambil pesanannya, keris itu belum selesai. Ken Arok naik pitam. Kemudian menghunuskan keris belum selesai tersebut ke Mpu Gandring</SPAN></DIV></BODY></HTML></div>
+htmlText_B8D0BBBE_AB28_19C2_41E0_5C820FB0E4C5.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Merupakan arca dari seekor binatang ajaib dalam mitologi Hindu-Budha. Arca singa ini kemungkinan merupakan sebuah tugu monumen, karena begitu beratnya benda ini ketika digeser maupun diambil. Kemungkinan didasarnya terdapat alas atau pedestal. Pada bagian dada terdapat angka tahun yang ditulis dalam bentuk huruf kwadran (persegi) terbaca menunjuk angka 951.</SPAN></DIV></BODY></HTML></div>
+htmlText_6F0A7F7B_7FB7_8C64_41DD_CF1E63E1BA0A.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Mpu Purwa bukanlah sosok pendeta agama Buddha biasa, tetapi ia seorang Sthapaka. Sthapaka adalah pendeta 1 yang utama, putus dalam 16 macam ritus pensucian, berkelahiran tinggi, tahu akan arti dan makna kitab suci, mahir dalam ilmu pengetahuannya, bertingkah laku sesuai ajaran kitab suci, dan sebagainya.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Mpu Purwa adalah sosok pendeta cikal bakal raja-raja besar seperti Kertanegara dari Singasari dan Hayam Wuruk dari Majapahit, sebab anak Mpu Purwa yaitu Ken Dedes adalah sumber keturunan raja-raja tersebut.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Diharapkan Balai Penyelamatan tersebut mampu memberikan sumbangan berupa visual sejarah. Untuk memotivasi nilai-nilai budi pekerti (seperti Mpu Purwa) terhadap masyarakat Kota Malang, khususnya siswa- siswa di sekolah.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV></BODY></HTML></div>
+htmlText_B11B7D81_AFE4_6FF4_41E1_8A187A29F178.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Museum Mpu Purwa adalah museum yang mengoleksi benda-benda purbakala yang ada di Indonesia, khususnya Pulau Jawa. Koleksinya meliputi patung, arca, candi dan prasasti dari berbagai kerajaan di Jawa. Benda-benda tersebut dahulu digunakan dalam berbagai aktivitas kerajaan dan menghilang bersama dengan keruntuhan kerajaannya. Beberapa pemerintah daerah di Pulau Jawa menemukan kembali benda-benda tersebut dan mengumpulkannya.</SPAN></DIV></BODY></HTML></div>
+htmlText_BAC8EF14_AB38_FAC6_41DF_3AF5D8BAC539.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Nadwayamudra, yang digambarkan dalam posisi berdiri tegak lurus  (samabahangga).  Kedua tangan dengan sikap memegang buah dada (stanadwayamudra) yang merupakan jalan air (pancuran). Jadi rupa-rupanya arca dewi ini berhubungan dengan patirthan. Arca-. Arca semacam ini dapat dijumpai pada patirthan Belahan (pandaan) atau patirthan Goa gajah Bedulu Bali. Memang bukan merupakan kepastian  bahwa  Arca pancuran semacam ini adalah penggambaran dewi laksmi. Namun demikian tokoh yang selalu berhubungan dengan air suci (amerta) adalah laksmi, isteri wisnu. Dalam suatu riwayat ‘samodramanthana’ disebutkan bahwa salah satu yang keluar dari lautan susu (ksirarnawa) adalah laksmi. Karena patirthan pada umumnya dibangun berhubungan erat dengan kepercayaan terhadap iar suci (amerta), maka dewi yang dihubungkan dengan amerta tidak ada lain kecuali laksmi.</SPAN></DIV></BODY></HTML></div>
+htmlText_B4FCC48D_AF24_3D0C_41B2_7045668C414D.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Pada saat Singhasari melakukan perluasan, kekuasaan ke berbagai tempat dengan armada-armada perangdan kekuatan besar. Namun tanpa disadari Singhasari menjadi kerajaan yang rapuh karena di tinggal oleh armada perang yang kuat ke daerah-daerah sebrang. Kerapuhan ini kemudian dimanfaatkan oleh gelang-gelang untuk melakukan penyerangan. Penyerangan berhasil menewaskan Kertanegara. Sekaligus menandai berakhirnya Kerajaan Singhasari.</SPAN></DIV></BODY></HTML></div>
+htmlText_B9C56416_AB18_0EC2_41E4_F750B934DFDB.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Pada tahun 866 saka bulan Caitra tanggal 6 suklapaksa wuku shinta, yang bertepatan dengan tanggal 3 Maret 944M. Sri maharaja Rake Hino Pu Sindok Sri Wikrramadharmottunggadewa memerintahkan melalui Rakai Kanuruhan untuk menetapkan sebidang tanah di desa muncang yang masuk wilayah Hujung. Maksud dari penetapan sebidng tanah tersebut guna kelangsungan bangunan suci (tempat pemujaan) yang bernama ‘Siddhayoga’, yaitu sebuah tempat ketika para pendeta melakukan persembahan kepada bhatara setiap harinya, serta mempersembahkan kurban bunga bhatara sang hyang Swayambuha di Walandit.</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Nama Walandit sekarang menjadi Blandit. Sebuah dukuh di desa Wonorejo Kecamatan Singosari, di mana prasati Muncang tersebut berasal,. Dengan demikian desa muncang dahulu tentu berada di desa blindit sekarang. Dahulu daerah ini masuk dalam wilayah Hujung (diduga Hujung adalah desa Ngjung-singosari sekarang). Pada waku tanah sima tersebut ditetapkan, yang menjadi kepala wilayah ‘Hujung’ Rakryan Hujung pu Madhuralokaranjana, yang memang sangat besar perhatiannya di  bidang keagamaan. Adapun yang dimaksud bhatara Sang Hyang Swayambuha di Walandit itu behubungan dangan pemujaan ‘hyang’ di gunung bromo. Karena kata ‘Swayambu’ (yang terlahir sendiri) adalah sebutan bagi dewa Brahma (bhatara bromo) sebagai dewa yang terlahir dengan sendirinya.</SPAN></DIV></BODY></HTML></div>
+htmlText_B3925B8B_AFEC_2B0B_41C7_99A4ED63DA54.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Wayang Topeng Malangan merupakan sebuah tradisi budaya dan religiusitas yang tumbuh di masyarakat Malang. Dalam literatur, disebutkan bahwa keberadaan topeng ini telah dikenal semenjak zaman kerajaan tertua di Jatim yaitu kerajaan Gajayana (760 Masehi) yang berlokasi di sekitar Kota Malang.</SPAN></DIV></BODY></HTML></div>
+htmlText_9463F063_822C_308B_41D1_CBD4A22A66AA.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">digambarkan dalam posisi berdiri berjenggot dan berperut buncit. Tangan kanan membawa trisula, tangan kanan membawa kendi amerta (kamandalu). Pada bahu kanan terdapan kebut lalat (camara). Memakai tali kasta (upavita), serta mengenakan kalung (hara).</SPAN></DIV></BODY></HTML></div>
+
+### Title
+window_6F0A5F7B_7FB7_8C64_41B6_62EBB5D0C2BC.title = Alasan Dipilihnya Nama Mpu Purwa
+window_B8CC81A0_AB28_09FE_41D2_87F6DC832A05.title = Bodhisatwa (Awalokiteswara)
+window_9535AACC_81F3_B971_41D3_C2EE8C2F5ABE.title = Brahma Catur Muka
+window_95B423BB_822C_17FB_41C4_CD0BDDA78753.title = Durgamahisa Suramardini
+window_BAC83F13_AB38_FAC2_41E3_4164A94370C4.title = Dwi Kesuburan (Sri / Laksmi)
+window_94299A89_821C_1187_41A9_4060DDC25634.title = Ganesya
+window_9701F6C5_8224_318F_41D7_DAC4A6C56070.title = Ganesya Bunulrejo
+window_B1191D81_AFE4_6FF4_41DA_0E89601043E8.title = Museum Mpu Purwa
+window_B8D1F11C_AB28_06C5_41DA_0B98E963BA15.title = Prasasti Dinoyo 2
+window_B9C33416_AB18_0EC2_41E3_DDCE11B480C7.title = Prasasti Muncang
+window_B8D28BBD_AB28_19C6_41E4_C7D093F8786D.title = Singa Stamba 
+window_94642063_822C_308B_41DB_8E0B35FB0D75.title = Siwa Mahaguru
+window_B3902B8B_AFEC_2B0B_41C6_376DACD4E63C.title = Wayang Topeng Malangan
+
+## Skin
+
+### Multiline Text
+HTMLText_C1D6D9AA_CF4B_E29F_41E5_3B2715D72D2B.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:24px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff6600;font-size:24px;font-family:'Arial Black', Gadget, sans-serif;"><B>LEVEL:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:20px;"><B>{{quiz.media.index}} / {{quiz.media.count}}</B></SPAN></SPAN></DIV></div>
+HTMLText_5B86CDA9_70B8_8F01_41D7_9B31A00C9640.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:24px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff6600;font-size:24px;font-family:'Arial Black', Gadget, sans-serif;"><B>TIME:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:20px;"><B>{{quiz.time.elapsed}}</B></SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Skripsi Non Gamifikasi
